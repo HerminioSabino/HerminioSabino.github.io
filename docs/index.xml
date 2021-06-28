@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo Apéro on Hermínio Sabino</title>
+    <title>Hermínio Sabino</title>
     <link>https://herminiosabino.github.io/</link>
-    <description>Recent content in Hugo Apéro on Hermínio Sabino</description>
+    <description>Recent content on Hermínio Sabino</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 28 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://herminiosabino.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -267,16 +267,6 @@ summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
     </item>
     
     <item>
-      <title>Contact</title>
-      <link>https://herminiosabino.github.io/contact/</link>
-      <pubDate>Mon, 25 Feb 2019 13:38:41 -0600</pubDate>
-      
-      <guid>https://herminiosabino.github.io/contact/</guid>
-      <description>** Contact page don&amp;rsquo;t contain a body, just the front matter above. See form.html in the layouts folder.
-Formspree requires a (free) account and new form to be set up. The link is made on the final published url in the field: Restrict to Domain. It is possible to register up to 2 emails free and you can select which one you want the forms to go to within Formspree in the Settings tab.</description>
-    </item>
-    
-    <item>
       <title>Typography Styles &amp; Element Examples</title>
       <link>https://herminiosabino.github.io/elements/</link>
       <pubDate>Mon, 18 Feb 2019 12:27:33 -0600</pubDate>
@@ -312,7 +302,7 @@ Formspree requires a (free) account and new form to be set up. The link is made 
       
       <guid>https://herminiosabino.github.io/license/</guid>
       <description>My blog posts are released under a Creative Commons Attribution-ShareAlike 4.0 International License.
-  </description>
+</description>
     </item>
     
   </channel>

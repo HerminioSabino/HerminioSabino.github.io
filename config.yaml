@@ -102,16 +102,13 @@ menu:
       title: License
       url: /license/
       weight: 1
-    - name: Contact
-      title: Contact form
-      url: /contact/
-      weight: 2
+    
     - name: Contributors
       title: Contributors
       url: /contributors/
       weight: 3
   header:
-    - name: About
+    - name: Sobre
       title: About Blogophonic
       url: /about/
       weight: 1
@@ -119,22 +116,19 @@ menu:
       title: Blog
       url: /blog/
       weight: 2
-    - name: Projects
+    - name: Projetos
       title: Project Portfolio
       url: /project/
       weight: 3
-    - name: Talks
+    - name: Paletras
       title: Talks
       url: /talk/
       weight: 4
-    - name: A collection
+    - name: Cursos
       title: A collection
       url: /collection/
       weight: 5
-    - name: Elements
-      title: Element Page
-      url: /elements/
-      weight: 6
+   
 privacy:
   disqus:
     disable: no
