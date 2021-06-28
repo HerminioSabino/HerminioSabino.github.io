@@ -10,7 +10,7 @@ metaDataFormat: yaml
 footnoteReturnLinkContents: '&#8617;'
 paginate: 5
 preserveTaxonomyNames: yes
-publishDir: docs/
+publishDir: 'docs/'
 ignoreFiles:
   - \.Rmd$
   - \.Rmarkdown$
