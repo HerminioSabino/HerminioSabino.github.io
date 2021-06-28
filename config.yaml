@@ -1,6 +1,6 @@
 baseURL: https://herminiosabino.github.io/
 theme: hugo-apero
-languageCode: pt - br
+languageCode: en
 title: Hermínio Sabino
 author: Hermínio Sabino
 copyright: ''
@@ -74,6 +74,12 @@ params:
     - icon: lattes
       icon_pack: ai
       url: http://lattes.cnpq.br/0780797316163220
+    - icon: google-scholar
+      icon_pack: ai
+      url: https://scholar.google.com.br/citations?hl=pt-BR&user=sTzjRtUAAAAJ
+    - icon: twitch
+      icon_pack: fab
+      url: https://www.twitch.tv/herminiosabino
    
   socialInFooter: yes
   socialInHeader: no
