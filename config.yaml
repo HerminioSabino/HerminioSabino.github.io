@@ -37,7 +37,7 @@ params:
   custom_theme: ''
   customheadingFontFamily: Fraunces
   customtextFontFamily: Commissioner
-  description: A modern, beautiful, and easily configurable blog theme for Hugo.
+  description:
   favicon: /img/favicon2.ico
   headingFontFamily: sans-serif
   logo: /img/blogophonic-mark.png
