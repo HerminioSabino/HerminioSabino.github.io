@@ -36,4 +36,5 @@ Agora que já vimos um pouco da teoria, vamos mostrar na prática de delimitaç�
 Você pode assistir toda a [playlist no canal HS GEOTEC](https://www.youtube.com/watch?v=9B1RYSDUdaw&list=PLlsZ4IFs6KF_4FLC06yeNwO3i3pypm5VY) onde mostro o passo a passo de como fazer a delimitação e também a criaçãod e layout de impressão, como o mostrado a baixo
 
 #### Exemplo de layout
-![mapa](bACIA.jpeg)
+
+![test image size](featured.jpg)
