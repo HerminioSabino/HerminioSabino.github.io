@@ -9,7 +9,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="generator" content="Hugo 0.83.1" />
-<title>Adicionando novos estilos no QGIS | Hermínio Sabino</title>
+<title>Bacias Hidrográficas | Hermínio Sabino</title>
 
 
 <meta property="twitter:site" content="@apreshill">
@@ -24,29 +24,30 @@
   
     
   
-<meta name="description" content="A modern, beautiful, and easily configurable blog theme for Hugo.">
+<meta name="description" content="Uso do QGIS na delimitação de bacias">
 
 
 <meta property="og:site_name" content="Hermínio Sabino">
-<meta property="og:title" content="Adicionando novos estilos no QGIS | Hermínio Sabino">
-<meta property="og:description" content="A modern, beautiful, and easily configurable blog theme for Hugo." />
+<meta property="og:title" content="Bacias Hidrográficas | Hermínio Sabino">
+<meta property="og:description" content="Uso do QGIS na delimitação de bacias" />
 <meta property="og:type" content="page" />
-<meta property="og:url" content="https://herminiosabino.github.io/blog/2021-06-28-adicionando-novos-estilos-no-qgis/" />
+<meta property="og:url" content="https://herminiosabino.github.io/blog/2021-06-28-bacias-hidrogr%C3%A1ficas/" />
 <meta property="og:locale" content="en">
 
 
 
 
     
-        <meta property="og:image" content="https://herminiosabino.github.io/blog/2021-06-28-adicionando-novos-estilos-no-qgis/features.jpg" >
+        <meta property="og:image" content="https://herminiosabino.github.io/blog/2021-06-28-bacias-hidrogr%C3%A1ficas/featured.jpg" >
         <meta property="twitter:card" content="summary_large_image">
-        <meta name="twitter:image" content="https://herminiosabino.github.io/blog/2021-06-28-adicionando-novos-estilos-no-qgis/features.jpg" >
+        <meta name="twitter:image" content="https://herminiosabino.github.io/blog/2021-06-28-bacias-hidrogr%C3%A1ficas/featured.jpg" >
     
     
-  <meta itemprop="name" content="Adicionando novos estilos no QGIS">
-<meta itemprop="description" content="Estilos QGIS   Estilos já adicionados    Estilo Xilogravura¹ Legend Path Estados Brasileiros² Legend Peth Biomas Brasileiros²  ¹ Xilogravura é a técnica de gravura na qual se utiliza madeira como matriz e possibilita a reprodução da imagem gravada sobre o papel ou outro suporte adequado. É um processo muito parecido com um carimbo. ² Limites definidos pelo Instituto Brasileiro de Geografia e Estatística - IBGS"><meta itemprop="datePublished" content="2021-06-28T00:00:00&#43;00:00" />
-<meta itemprop="dateModified" content="2021-06-28T00:00:00&#43;00:00" />
-<meta itemprop="wordCount" content="203"><meta itemprop="image" content="https://herminiosabino.github.io/blog/2021-06-28-adicionando-novos-estilos-no-qgis/features.jpg">
+  <meta itemprop="name" content="Bacias Hidrográficas">
+<meta itemprop="description" content="Como colocado na lei das águas 9.433/97 a bacia hidrográfica é a unidade de planejamento e um sistema de administração de recursos hídricos que atenda as necessidades regionais
+Bacia Hidrográfica é a área ou região de drenagem de um rio principal e seus afluentes. É a porção do espaço em que as águas das chuvas, das montanhas, subterrâneas ou de outros rios escoam em direção a um determinado curso d’água, abastecendo-o."><meta itemprop="datePublished" content="2021-06-28T20:57:20-03:00" />
+<meta itemprop="dateModified" content="2021-06-28T20:57:20-03:00" />
+<meta itemprop="wordCount" content="450"><meta itemprop="image" content="https://herminiosabino.github.io/blog/2021-06-28-bacias-hidrogr%C3%A1ficas/featured.jpg">
 <meta itemprop="keywords" content="" />
   
   <!--[if IE]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
@@ -95,94 +96,75 @@
   <section class="page-content mw7 center">
     <article class="post-content pa0 ph4-l">
       <header class="post-header">
-        <h1 class="f1 lh-solid measure-narrow mb3 fw4">Adicionando novos estilos no QGIS</h1>
-        
-        <p class="f6 measure lh-copy mv1">By Hermínio Sabino in <a href="https://herminiosabino.github.io/categories/geotecnologias">Geotecnologias</a> </p>
+        <h1 class="f1 lh-solid measure-narrow mb3 fw4">Bacias Hidrográficas</h1>
+        <h4 class="f4 mt0 mb4 lh-title measure">Uso do QGIS na delimitação de bacias</h4>
+        <p class="f6 measure lh-copy mv1">By Hermínio Sabino e Colaboradores</p>
         <p class="f7 db mv0 ttu">June 28, 2021</p>
 
       
 
       </header>
       <section class="post-body pt5 pb4">
-        
-
-
-
-<h1 id="estilos-qgis">Estilos QGIS
-  <a href="#estilos-qgis"></a>
-</h1>
+        <p>Como colocado na lei das águas 9.433/97 a bacia hidrográfica é a unidade de planejamento e um sistema de administração de recursos hídricos que atenda as necessidades regionais</p>
+<p><strong>Bacia Hidrográfica</strong> é a área ou região de drenagem de um rio principal e seus afluentes. É a porção do espaço em que as águas das chuvas, das montanhas, subterrâneas ou de outros rios escoam em direção a um determinado curso d’água, abastecendo-o.</p>
 
 
 
 
-<h4 id="estilos-já-adicionados">Estilos já adicionados
-  <a href="#estilos-j%c3%a1-adicionados"></a>
-</h4>
-<ul>
-<li>Estilo Xilogravura¹</li>
-<li>Legend Path Estados Brasileiros²</li>
-<li>Legend Peth Biomas Brasileiros²</li>
-</ul>
-<p><img src="https://user-images.githubusercontent.com/27819904/123563963-dd69ef80-d78d-11eb-8079-39b434dcfca6.png" alt="image"></p>
-<p>¹ Xilogravura é a técnica de gravura na qual se utiliza madeira como matriz e possibilita a reprodução da imagem gravada sobre o papel ou outro suporte adequado. É um processo muito parecido com um carimbo.
-² Limites definidos pelo Instituto Brasileiro de Geografia e Estatística - IBGS</p>
-
-
-
-
-<h2 id="como-adicionar-um-novo-estilo">Como adicionar um novo estilo
-  <a href="#como-adicionar-um-novo-estilo"><svg class="anchor-symbol" aria-hidden="true" height="26" width="26" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
-      <path d="M0 0h24v24H0z" fill="currentColor"></path>
-      <path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z"></path>
-    </svg></a>
-</h2>
-<ol>
-<li>Faça o download do arquivo .xml dentro da pasta</li>
-<li>No QGIS na barra de ferramenta clique em Gerenciador de Estilo (Style Manager).</li>
-</ol>
-<p><img src="https://user-images.githubusercontent.com/27819904/123563298-5bc49280-d78a-11eb-8b8e-949dd023d649.png" alt="image"></p>
-<ol start="3">
-<li>Com a janela do gerenciador de estilo aberta vá até importar/exportar e selecionar &ldquo;Importar&rdquo;.</li>
-</ol>
-<p><img src="https://user-images.githubusercontent.com/27819904/123563404-d7264400-d78a-11eb-81ff-82e4a157effe.png" alt="image">         <img src="https://user-images.githubusercontent.com/27819904/123563474-2e2c1900-d78b-11eb-9545-f9e23ee362fd.png" alt="image"></p>
-<ol start="4">
-<li>Na próxima janela basta seguir os passos</li>
-</ol>
-<ul>
-<li>1 - Escolher IMPORTAR DO ARQUIVO</li>
-<li>2 - Buscar o arquivo .xml</li>
-<li>3 - Selecionar todos</li>
-<li>4 - Importar</li>
-</ul>
-<p><img src="https://user-images.githubusercontent.com/27819904/123563774-d9899d80-d78c-11eb-89bd-f0bade5a0934.png" alt="image"></p>
-<ol start="5">
-<li>Após adicionar você pode navegar pelas abas e vericar em quais as opções de estilo o arquivo .xml representa</li>
-</ol>
-<ul>
-<li>Obs: Alguns possuem estilos para as diferentes formas de feições (pontos, linhas e polígonos), outros funciona apenas para Legend Path, para rotúlos, ramapa de cores</li>
-</ul>
-<p>Para fazer o download dos estilos basta acesse o 
-<a href="https://github.com/HerminioSabino/simbologia" target="_blank" rel="noopener">github</a></p>
-
-
-
-
-<h3 id="fique-a-vontade-para-contribuir-com-o-repositório-novos-estilos-são-bem-vindos">Fique a vontade para contribuir com o repositório. Novos estilos são bem-vindos
-  <a href="#fique-a-vontade-para-contribuir-com-o-reposit%c3%b3rio-novos-estilos-s%c3%a3o-bem-vindos"><svg class="anchor-symbol" aria-hidden="true" height="26" width="26" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+<h3 id="elementos-de-uma-bacia-hidrográfica">Elementos de uma bacia hidrográfica
+  <a href="#elementos-de-uma-bacia-hidrogr%c3%a1fica"><svg class="anchor-symbol" aria-hidden="true" height="26" width="26" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
       <path d="M0 0h24v24H0z" fill="currentColor"></path>
       <path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z"></path>
     </svg></a>
 </h3>
+<p>Veja a definição de cada elemento da bacia:</p>
+<ol>
+<li><strong>Nascente:</strong> local onde se inicia uma bacia hidrográfica. Geralmente é o ponto mais elevado do relevo e também onde se encontra a principal nascente do rio que dá nome à bacia.</li>
+<li><strong>Rio principal:</strong> rio de maior volume e extensão da bacia. Recebe águas dos rios menores que têm função de abastecê-lo.
+Divisor de águas: estruturas do relevo que têm o papel de dividir as áreas das bacias. Normalmente são morros, serras, picos, montanhas ou outras estruturas elevadas do relevo.</li>
+<li><strong>Afluentes:</strong> consistem nos rios menores que deságuam no rio principal e têm a função de abastecer esse rio maior.</li>
+<li><strong>Foz:</strong> é o final da bacia e o local onde as águas encontram o oceano ou deságuam em uma bacia hidrográfica maior. É também conhecida cientificamente como exutório. Pode ser do tipo estuário ou delta.</li>
+</ol>
 
 
 
 
-<h2 id="se-encontrou-algum-erro-por-favor-notificar">Se encontrou algum erro, por favor notificar.
-  <a href="#se-encontrou-algum-erro-por-favor-notificar"><svg class="anchor-symbol" aria-hidden="true" height="26" width="26" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+<h3 id="tipos-de-bacias-hidrográficas">Tipos de bacias hidrográficas
+  <a href="#tipos-de-bacias-hidrogr%c3%a1ficas"><svg class="anchor-symbol" aria-hidden="true" height="26" width="26" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
       <path d="M0 0h24v24H0z" fill="currentColor"></path>
       <path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z"></path>
     </svg></a>
-</h2>
+</h3>
+<p>Nem todas as bacias hidrográficas são iguais, diferenciando-se no tamanho, no perfil do relevo, na estrutura territorial e até mesmo nas suas funções. Os tipos de bacias hidrográficas são definidos pelo destino das águas dessa bacia. Existem vários padrões de drenagem das águas dos rios, que se direcionam a vários lugares.</p>
+<p>Vamos identificar quais são os tipos de bacias hidrográficas e o perfil de drenagem dessas águas.</p>
+<ol>
+<li><strong>Exorreicas:</strong> aquelas bacias que as águas escoam diretamente para o mar; são as mais comuns no Brasil.</li>
+<li><strong>Endorreicas:</strong> aquelas bacias que as águas deságuam em lagos, lagoas ou em algum mar fechado.</li>
+<li><strong>Arreicas:</strong> aquelas bacias onde as águas não se direcionam a um lugar específico, perdendo-se no meio do caminho, podendo evaporar ou infiltrar no solo.</li>
+<li><strong>Criptorreicas:</strong> bacias que se direcionam ao interior da Terra, alimentando, assim, lagos, cavernas, grutas e rios subterrâneos.</li>
+</ol>
+
+
+
+
+<h3 id="uso-do-qgis-na-delimitação-de-bacias-hidrográficas-usando-dados-srtm">Uso do QGIS na delimitação de bacias hidrográficas usando dados SRTM
+  <a href="#uso-do-qgis-na-delimita%c3%a7%c3%a3o-de-bacias-hidrogr%c3%a1ficas-usando-dados-srtm"><svg class="anchor-symbol" aria-hidden="true" height="26" width="26" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+      <path d="M0 0h24v24H0z" fill="currentColor"></path>
+      <path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z"></path>
+    </svg></a>
+</h3>
+<p>Agora que já vimos um pouco da teoria, vamos mostrar na prática de delimitação de bacias hidrográficas usando o software 
+<a href="https://qgis.org/en/site/" target="_blank" rel="noopener">QGIS</a> e dados SRTM. No exemplo usei um reservatório (Pilões) como sendo meu exutório e então delimitei a bacia de contribuição.
+Você pode assistir toda a 
+<a href="https://www.youtube.com/watch?v=9B1RYSDUdaw&amp;list=PLlsZ4IFs6KF_4FLC06yeNwO3i3pypm5VY" target="_blank" rel="noopener">playlist no canal HS GEOTEC</a> onde mostro o passo a passo de como fazer a delimitação e também a criaçãod e layout de impressão, como o mostrado a baixo</p>
+
+
+
+
+<h4 id="exemplo-de-layout">Exemplo de layout
+  <a href="#exemplo-de-layout"></a>
+</h4>
+<p><img src="bACIA.jpeg" alt="mapa"></p>
 
         
         <details closed class="f6 fw7 input-reset">
@@ -192,12 +174,7 @@
   </dl>
   <dl class="f6 lh-copy">
     <dt class="fw7">Length:</dt>
-    <dd class="fw5 ml0">1 minute read, 203 words</dd>
-  </dl>
-  
-  <dl class="f6 lh-copy">
-    <dt class="fw7">Categories:</dt>
-    <dd class="fw5 ml0"> <a href="https://herminiosabino.github.io/categories/geotecnologias">Geotecnologias</a> </dd>
+    <dd class="fw5 ml0">3 minute read, 450 words</dd>
   </dl>
   
   
@@ -213,10 +190,10 @@
         <div class="post-pagination dt w-100 mt4 mb2">
   
   
-    <a class="prev dtc pr2 tl v-top fw6"
-    href="https://herminiosabino.github.io/blog/2021-06-28-bacias-hidrogr%C3%A1ficas/">&larr; Bacias Hidrográficas</a>
   
   
+    <a class="next dtc pl2 tr v-top fw6"
+    href="https://herminiosabino.github.io/blog/2021-06-28-adicionando-novos-estilos-no-qgis/">Adicionando novos estilos no QGIS &rarr;</a>
   
 </div>
 

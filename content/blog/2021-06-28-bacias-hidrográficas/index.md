@@ -1,7 +1,7 @@
 ---
 title: Bacias Hidrográficas
 date: 2021-06-28T20:57:20-03:00
-draft: true
+draft: false
 subtitle: Uso do QGIS na delimitação de bacias
 ---
 

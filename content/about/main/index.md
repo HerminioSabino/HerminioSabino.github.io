@@ -15,7 +15,7 @@ intro: |
   *"Hoje, para você fazer ciência de alto nível não basta só publicação.  O que importa mais que publicações é você transmitir seus conhecimentos para a sociedade como um todo"* (Prof. Paulo Artaxo - USP)
   
  
-show_outro: true
+show_outro: false
 outro: |
   <i ></i>
 ---
