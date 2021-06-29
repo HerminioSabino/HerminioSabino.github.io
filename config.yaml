@@ -120,14 +120,7 @@ menu:
       title: Project Portfolio
       url: /project/
       weight: 3
-    - name: Paletras
-      title: Talks
-      url: /talk/
-      weight: 4
-    - name: Cursos
-      title: A collection
-      url: /collection/
-      weight: 5
+    
    
 privacy:
   disqus:
