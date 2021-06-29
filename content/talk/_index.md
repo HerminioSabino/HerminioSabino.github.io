@@ -18,10 +18,8 @@ show_post_date: true
 show_post_thumbnail: true
 show_post_time: true
 sidebar:
-  author: The R Markdown Team @RStudio
-  description: "This is a list for your talks, workshops, or \nother events with a
-    time, date, and place. \nEven this sidebar offers a ton of customizations.\n\nCheck
-    out the _index.md file in the /talk folder \nto edit this content. \n"
+  author: Hermínio Sabino
+  description: ""
   show_sidebar_adunit: false
   text_link_label: Subscribe via RSS
   text_link_url: /talk/index.xml

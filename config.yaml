@@ -103,18 +103,18 @@ taxonomies:
   tag: tags
 menu:
   footer:
-    - name: License
-      title: License
+    - name: Licença
+      title: Licença
       url: /license/
       weight: 1
     
-    - name: Contributors
-      title: Contributors
+    - name: Colaboradores
+      title: Colaboradores
       url: /contributors/
       weight: 3
   header:
     - name: Sobre
-      title: About Blogophonic
+      title: Sobre
       url: /about/
       weight: 1
     - name: Blog
