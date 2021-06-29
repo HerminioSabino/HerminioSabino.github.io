@@ -1,6 +1,6 @@
 baseURL: https://herminiosabino.github.io/
 theme: hugo-apero
-languageCode: en
+languageCode: pt
 title: Hermínio Sabino
 author: Hermínio Sabino
 copyright: ''
@@ -18,6 +18,8 @@ ignoreFiles:
   - \.knit\.md$
   - \.utf8\.md$
 enableEmoji: yes
+
+
 markup:
   defaultMarkdownHandler: goldmark
   goldmark:
@@ -30,22 +32,25 @@ markup:
     endLevel: 2
     ordered: no
     startLevel: 2
+
 params:
   custom_theme: ''
   customheadingFontFamily: Fraunces
   customtextFontFamily: Commissioner
   description: A modern, beautiful, and easily configurable blog theme for Hugo.
-  favicon: /img/favicon.ico
+  favicon: /img/favicon2.ico
   headingFontFamily: sans-serif
-  logo: /img/blogophonic-mark-dark.png
+  logo: /img/blogophonic-mark.png
   mainSections:
     - blog
     - project
     - talk
   navallcaps: yes
-  orgLocal: Anywhere
-  orgName: RStudio
-  sharing_image: /img/papillons.jpg
+  orgLocal: Parnamirim - RN
+  orgName: Hermínio Sabino
+  sharing_image: /img/avatar2.jpg
+  
+  
   social:
     - icon: github
       icon_pack: fab
