@@ -5,7 +5,7 @@ role: "Um entusista de tecnologias Opensources"
 avatar_shape: circle # circle, square, rounded, leave blank to exclude
 show_social_links: true # specify social accounts in site config
 audio_link_label: # leave blank to exclude
-link_list_label: "Interests" # bookmarks, elsewhere, etc.
+link_list_label: Interesses # bookmarks, elsewhere, etc.
 link_list:
 - name: QGIS
   url: https://qgis.org/en/site/
