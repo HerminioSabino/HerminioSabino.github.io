@@ -14,7 +14,7 @@
       
       <guid>https://herminiosabino.github.io/collection/prework/</guid>
       <description>Welcome to the Introducing Yourself Online workshop! We look forward to meeting you. Before attending the workshop, please complete the following prework.
-Set up RStudio CloudSign up for a free RStudio Cloud account at https://rstudio.cloud/ before the workshop. I recommend logging in with an existing Google or GitHub account, if you have one (rather than creating a new account with another password you have to remember).</description>
+Set up RStudio Cloud     Sign up for a free RStudio Cloud account at https://rstudio.cloud/ before the workshop. I recommend logging in with an existing Google or GitHub account, if you have one (rather than creating a new account with another password you have to remember).</description>
     </item>
     
     <item>
@@ -33,7 +33,7 @@ Bacia Hidrográfica é a área ou região de drenagem de um rio principal e seus
       <pubDate>Mon, 28 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://herminiosabino.github.io/blog/2021-06-28-adicionando-novos-estilos-no-qgis/</guid>
-      <description>Estilos QGISEstilos já adicionados Estilo Xilogravura¹ Legend Path Estados Brasileiros² Legend Peth Biomas Brasileiros²  ¹ Xilogravura é a técnica de gravura na qual se utiliza madeira como matriz e possibilita a reprodução da imagem gravada sobre o papel ou outro suporte adequado. É um processo muito parecido com um carimbo. ² Limites definidos pelo Instituto Brasileiro de Geografia e Estatística - IBGS</description>
+      <description>Estilos QGIS   Estilos já adicionados    Estilo Xilogravura¹ Legend Path Estados Brasileiros² Legend Peth Biomas Brasileiros²  ¹ Xilogravura é a técnica de gravura na qual se utiliza madeira como matriz e possibilita a reprodução da imagem gravada sobre o papel ou outro suporte adequado. É um processo muito parecido com um carimbo. ² Limites definidos pelo Instituto Brasileiro de Geografia e Estatística - IBGS</description>
     </item>
     
     <item>
@@ -69,8 +69,8 @@ Bacia Hidrográfica é a área ou região de drenagem de um rio principal e seus
       
       <guid>https://herminiosabino.github.io/contributors/</guid>
       <description>Agradeço todos vocês por contribuirem com habilidades técnicas e criativas para este projeto
-  Clara Lívia Câmara e Silva🐱(Publicação de artigos e opiniões e ajuda na construção do site)
-  Camilo Vinícius Trindade Silva🦍 (Publicação de artigos e tutoriais, além das conversas sempres construtivas)
+   Clara Lívia Câmara e Silva🐱(Publicação de artigos e opiniões e ajuda na construção do site)
+   Camilo Vinícius Trindade Silva👨 (Publicação de artigos e tutoriais, além das conversas sempres construtivas)
   </description>
     </item>
     

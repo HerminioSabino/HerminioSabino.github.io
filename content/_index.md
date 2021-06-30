@@ -2,7 +2,7 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: Meu nome é Herminio Sabino, atualmente estou como doutorando no Programa de Pós Graduação em Ciências Climáticas na Universidade Federal do Rio Grande do Norte - UFRN. No site você vai encontrar diversos materiais, principalmente que aborda o uso das geotecnologias O foco centro é a divulgação de tecnologias Opensource!
+description: Meu nome é Herminio Sabino, atualmente estou como doutorando no Programa de Pós Graduação em Ciências Climáticas na Universidade Federal do Rio Grande do Norte - UFRN. No site você vai encontrar diversos materiais, principalmente que aborda o uso das geotecnologias O foco central é a divulgação de tecnologias [Opensource!](https://opensource.com/)
   
 image_left: true
 images:
