@@ -1,9 +1,9 @@
 ---
 title: "Caracterização Morfométrica De Bacias"
-subtitle: ""
+subtitle: "Aula ministradas para alunos da discplina Hidrologia Geral do curso de Meteorologia - UFRN"
 excerpt: ""
-date: 2020-01-13T14:15:59-06:00
-date_end: "2020-01-15T14:45:59-06:00"
+date: 2020-06-29T13:00:59-06:00
+date_end: "2020-06-29T14:45:59-06:00"
 author: "Hermínio Sabino"
 location: "Online"
 draft: false
@@ -12,3 +12,5 @@ layout: single
 categories:
 - Vídeo Conferência
 ---
+
+## Para ter Acesso o material basta acessar o [link](https://github.com/HerminioSabino/hidrologia-geral)

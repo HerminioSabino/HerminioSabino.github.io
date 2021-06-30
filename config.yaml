@@ -113,18 +113,29 @@ menu:
       url: /contributors/
       weight: 3
   header:
+    - name: Início
+      title: Sobre
+      url: /
+      weight: 1
     - name: Sobre
       title: Sobre
       url: /about/
-      weight: 1
+      weight: 2
     - name: Blog
       title: Blog
       url: /blog/
-      weight: 2
+      weight: 3
     - name: Projetos
       title: Project Portfolio
       url: /project/
-      weight: 3
+      weight: 4
+    - name: Palestras
+      title: Paletras
+      url: /talk/
+      weight: 5
+    - name: Colaboradores
+      title: Colaboradores
+      url: /contributors/
     
       
    

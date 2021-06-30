@@ -14,7 +14,7 @@
       
       <guid>https://herminiosabino.github.io/collection/prework/</guid>
       <description>Welcome to the Introducing Yourself Online workshop! We look forward to meeting you. Before attending the workshop, please complete the following prework.
-Set up RStudio Cloud     Sign up for a free RStudio Cloud account at https://rstudio.cloud/ before the workshop. I recommend logging in with an existing Google or GitHub account, if you have one (rather than creating a new account with another password you have to remember).</description>
+Set up RStudio CloudSign up for a free RStudio Cloud account at https://rstudio.cloud/ before the workshop. I recommend logging in with an existing Google or GitHub account, if you have one (rather than creating a new account with another password you have to remember).</description>
     </item>
     
     <item>
@@ -33,16 +33,16 @@ Bacia Hidrográfica é a área ou região de drenagem de um rio principal e seus
       <pubDate>Mon, 28 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://herminiosabino.github.io/blog/2021-06-28-adicionando-novos-estilos-no-qgis/</guid>
-      <description>Estilos QGIS   Estilos já adicionados    Estilo Xilogravura¹ Legend Path Estados Brasileiros² Legend Peth Biomas Brasileiros²  ¹ Xilogravura é a técnica de gravura na qual se utiliza madeira como matriz e possibilita a reprodução da imagem gravada sobre o papel ou outro suporte adequado. É um processo muito parecido com um carimbo. ² Limites definidos pelo Instituto Brasileiro de Geografia e Estatística - IBGS</description>
+      <description>Estilos QGISEstilos já adicionados Estilo Xilogravura¹ Legend Path Estados Brasileiros² Legend Peth Biomas Brasileiros²  ¹ Xilogravura é a técnica de gravura na qual se utiliza madeira como matriz e possibilita a reprodução da imagem gravada sobre o papel ou outro suporte adequado. É um processo muito parecido com um carimbo. ² Limites definidos pelo Instituto Brasileiro de Geografia e Estatística - IBGS</description>
     </item>
     
     <item>
       <title>Caracterização Morfométrica De Bacias</title>
       <link>https://herminiosabino.github.io/talk/2021-06-29-caracteriza%C3%A7%C3%A3o-morfom%C3%A9trica-de-bacias-hidrogr%C3%A1fcas/</link>
-      <pubDate>Mon, 13 Jan 2020 14:15:59 -0600</pubDate>
+      <pubDate>Mon, 29 Jun 2020 13:00:59 -0600</pubDate>
       
       <guid>https://herminiosabino.github.io/talk/2021-06-29-caracteriza%C3%A7%C3%A3o-morfom%C3%A9trica-de-bacias-hidrogr%C3%A1fcas/</guid>
-      <description></description>
+      <description>Para ter Acesso o material basta acessar o link</description>
     </item>
     
     <item>
@@ -51,15 +51,15 @@ Bacia Hidrográfica é a área ou região de drenagem de um rio principal e seus
       <pubDate>Mon, 18 Feb 2019 12:27:33 -0600</pubDate>
       
       <guid>https://herminiosabino.github.io/elements/</guid>
-      <description>Font Sizes   A A A A A A A A   6rem
-(96px) 5rem
-(80px) 3rem
-(48px) 2.25rem
-(36px) 1.5rem
-(24px) 1.25rem
-(20px) 1rem
-(16px) .875rem
-(14px)     Type Samples Head&amp;shy;line Sub&amp;shy;head&amp;shy;line Level 1 Heading One page to rule them all...well, not really. This page displays sample typography and page elements to illustrate their style. Things like headings and paragraphs showing the beautiful type scale, form elements, tabular data, and image layouts just to name a few.</description>
+      <description>Font SizesAAAAAAAA6rem
+(96px)5rem
+(80px)3rem
+(48px)2.25rem
+(36px)1.5rem
+(24px)1.25rem
+(20px)1rem
+(16px).875rem
+(14px)Type SamplesHead&amp;shy;lineSub&amp;shy;head&amp;shy;lineLevel 1 HeadingOne page to rule them all...well, not really. This page displays sample typography and page elements to illustrate their style. Things like headings and paragraphs showing the beautiful type scale, form elements, tabular data, and image layouts just to name a few.</description>
     </item>
     
     <item>
@@ -69,8 +69,8 @@ Bacia Hidrográfica é a área ou região de drenagem de um rio principal e seus
       
       <guid>https://herminiosabino.github.io/contributors/</guid>
       <description>Agradeço todos vocês por contribuirem com habilidades técnicas e criativas para este projeto
-   Clara Lívia Câmara e Silva🐱(Publicação de artigos e opiniões e ajuda na construção do site)
-   Camilo Vinícius Trindade Silva🦍 (Publicação de artigos e tutoriais, além das conversas sempres construtivas)
+  Clara Lívia Câmara e Silva🐱(Publicação de artigos e opiniões e ajuda na construção do site)
+  Camilo Vinícius Trindade Silva🦍 (Publicação de artigos e tutoriais, além das conversas sempres construtivas)
   </description>
     </item>
     
