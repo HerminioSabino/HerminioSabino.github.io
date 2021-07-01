@@ -10,4 +10,4 @@ Agradeço todos vocês por contribuirem com habilidades técnicas e criativas pa
 
 + [Clara Lívia Câmara e Silva:cat:](http://lattes.cnpq.br/2487764179591385)(Publicação de artigos e opiniões e ajuda na construção do site)
 
-+ [Camilo Vinícius Trindade Silva:man:](http://lattes.cnpq.br/1661554216288315) (Publicação de artigos e tutoriais, além das conversas sempres construtivas)
++ [Camilo Vinícius Trindade Silva:man:](http://lattes.cnpq.br/1661554216288315) (Publicação de artigos e tutoriais, além das conversas sempre construtivas)
