@@ -21,7 +21,7 @@ tags: []
 
 
 ¹ Xilogravura é a técnica de gravura na qual se utiliza madeira como matriz e possibilita a reprodução da imagem gravada sobre o papel ou outro suporte adequado. É um processo muito parecido com um carimbo.
-² Limites definidos pelo Instituto Brasileiro de Geografia e Estatística - IBGS
+² Limites definidos pelo Instituto Brasileiro de Geografia e Estatística - IBGE
 
 
 ## Como adicionar um novo estilo
@@ -48,7 +48,7 @@ tags: []
 5. Após adicionar você pode navegar pelas abas e vericar em quais as opções de estilo o arquivo .xml representa
 - Obs: Alguns possuem estilos para as diferentes formas de feições (pontos, linhas e polígonos), outros funciona apenas para Legend Path, para rotúlos, ramapa de cores
 
-Para fazer o download dos estilos basta acesse o [github](https://github.com/HerminioSabino/simbologia)
+Para fazer o download dos estilos basta acessar o [github](https://github.com/HerminioSabino/simbologia)
 
 
 ### Fique a vontade para contribuir com o repositório. Novos estilos são bem-vindos
