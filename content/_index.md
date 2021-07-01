@@ -6,7 +6,7 @@ description: Meu nome é Herminio Sabino, atualmente estou como doutorando no Pr
   
 image_left: true
 images:
-- img/avatar.png
+- img/map.png
 show_action_link: true
 show_social_links: true
 subtitle: Aqui é um espaço de divulgação!

@@ -40,7 +40,7 @@ params:
   description:
   favicon: /img/favicon2.ico
   headingFontFamily: sans-serif
-  logo: /img/blogophonic-mark.png
+  logo: /img/blogophonic.png
   mainSections:
     - blog
     - project
